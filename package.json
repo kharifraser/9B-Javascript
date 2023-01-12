@@ -1,0 +1,14 @@
+{
+  "name": "9b-jasvascript",
+  "version": "1.0.0",
+  "description": "Love Circular:9B-javaascript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
